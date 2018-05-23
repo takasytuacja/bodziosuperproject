@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import pl.bodzio.superproject.model.Book;
 import pl.bodzio.superproject.model.BookRepository;
-import pl.bodzio.superproject.service.ValidationService;
+import pl.bodzio.superproject.service.validation.ValidationService;
 
 import java.util.List;
 
